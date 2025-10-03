@@ -1,0 +1,6 @@
+Lec-1: Fundamental Principle Of Counting (Basic Permutation) | Probability 
+Lec-2: Basic Formula of Factorial And Permutations | Probability and Statistics
+Lec-3: Restricted Permutation | Probability and Statistics
+Lec-4: Permutation with Repetition | Probability and Statistics
+Lec-5: Circular Permutation | Probability and Statistics
+Lec-6: Basic and Restricted Combination
