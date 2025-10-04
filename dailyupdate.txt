@@ -4,3 +4,6 @@ Lec-3: Restricted Permutation | Probability and Statistics
 Lec-4: Permutation with Repetition | Probability and Statistics
 Lec-5: Circular Permutation | Probability and Statistics
 Lec-6: Basic and Restricted Combination
+Lec-7: Combination Techniques | Probability and Statistics
+Lec-8: Basic Probability | Probability and Statistics
+Lec-9: Algebra of Events | Probability and Statistics
