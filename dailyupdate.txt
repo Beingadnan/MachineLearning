@@ -7,3 +7,7 @@ Lec-6: Basic and Restricted Combination
 Lec-7: Combination Techniques | Probability and Statistics
 Lec-8: Basic Probability | Probability and Statistics
 Lec-9: Algebra of Events | Probability and Statistics
+Lec-10: Conditional Probability 
+Lec-11: Multiplication Law of Probability 
+Lec-12: Independent Events with example
+
