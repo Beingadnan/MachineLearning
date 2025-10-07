@@ -11,3 +11,8 @@ Lec-10: Conditional Probability
 Lec-11: Multiplication Law of Probability 
 Lec-12: Independent Events with example
 
+Lec-13: Law of Total Probability 
+
+Lec-14: BAYES' Theorem 
+
+Lec-15: Random Variable 
